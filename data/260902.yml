@@ -1,0 +1,67 @@
+about:
+  description: Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+  license: GPL-3.0
+  homepage: https://tinyhumans.ai/openhuman
+  head: 61d25fe
+  archived: false
+  latestVersion: v0.63.7
+  collectedAt: 2026-09-02T04:50:15Z
+timeline:
+  created: 2026-02-18
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-07
+popularity:
+  star: 39315
+  watcher: 200
+  fork: 3862
+  release: 56
+  contributor: 158
+  pullRequest: 523
+  issue: 2011
+language:
+  Rust: 30426952
+  TypeScript: 20890701
+  JavaScript: 1019511
+  Shell: 772561
+  CSS: 75599
+  Swift: 24932
+  Python: 17538
+  PowerShell: 12289
+  Dockerfile: 7237
+  Ruby: 4016
+  NSIS: 1574
+  HTML: 745
+totalLine: 53253655
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 3
+    mergedPR: 250
+    openPR: 59
+    closedIssue: 110
+    openIssue: 126
+    commit: 11037
+  last90d:
+    since: 2026-06-04
+    release: 16
+    mergedPR: 1317
+    openPR: 77
+    closedIssue: 682
+    openIssue: 202
+    commit: 12405
+  last180d:
+    since: 2026-03-06
+    release: 56
+    mergedPR: 3140
+    openPR: 79
+    closedIssue: 1794
+    openIssue: 217
+    commit: 15679
+  last360d:
+    since: 2025-09-07
+    release: 56
+    mergedPR: 3140
+    openPR: 79
+    closedIssue: 1794
+    openIssue: 217
+    commit: 16282
