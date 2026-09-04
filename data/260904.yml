@@ -1,26 +1,28 @@
 about:
-  description: Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+  description:
+  |
+    OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
   license: GPL-3.0
   homepage: https://tinyhumans.ai/openhuman
-  head: 6bab676
+  head: 71a6970
   archived: false
   latestVersion: v0.63.7
-  collectedAt: 2026-09-04T04:50:45Z
+  collectedAt: 2026-09-04T19:51:42Z
 timeline:
   created: 2026-02-18
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-08-07
 popularity:
-  star: 39401
+  star: 39415
   watcher: 198
-  fork: 3885
+  fork: 3891
   release: 56
-  contributor: 158
-  pullRequest: 544
-  issue: 2022
+  contributor: 157
+  pullRequest: 3731
+  issue: 2034
 language:
-  Rust: 30945670
-  TypeScript: 21082693
+  Rust: 31024041
+  TypeScript: 21320305
   JavaScript: 1027236
   Shell: 773344
   CSS: 75599
@@ -31,37 +33,63 @@ language:
   Ruby: 4016
   NSIS: 1574
   HTML: 745
-totalLine: 53972873
+totalBytes: 54288856
 recent:
   last30d:
     since: 2026-08-05
     release: 3
-    mergedPR: 264
-    openPR: 74
-    closedIssue: 110
-    openIssue: 94
-    commit: 11230
+    mergedPR: 269
+    openPR: 81
+    closedIssue: 119
+    openIssue: 97
+    commit: 11278
+  last60d:
+    since: 2026-07-06
+    release: 8
+    mergedPR: 689
+    openPR: 97
+    closedIssue: 337
+    openIssue: 158
+    commit: 11835
   last90d:
     since: 2026-06-06
     release: 15
-    mergedPR: 1292
-    openPR: 95
-    closedIssue: 692
-    openIssue: 186
-    commit: 12598
+    mergedPR: 1297
+    openPR: 101
+    closedIssue: 707
+    openIssue: 183
+    commit: 12646
   last180d:
     since: 2026-03-08
     release: 56
-    mergedPR: 3175
-    openPR: 97
-    closedIssue: 1814
-    openIssue: 208
-    commit: 15872
+    mergedPR: 3180
+    openPR: 103
+    closedIssue: 1829
+    openIssue: 205
+    commit: 15920
   last360d:
     since: 2025-09-09
     release: 56
-    mergedPR: 3175
-    openPR: 97
-    closedIssue: 1814
-    openIssue: 208
-    commit: 16475
+    mergedPR: 3180
+    openPR: 103
+    closedIssue: 1829
+    openIssue: 205
+    commit: 16523
+  last720d:
+    since: 2024-09-14
+    release: 56
+    mergedPR: 3180
+    openPR: 103
+    closedIssue: 1829
+    openIssue: 205
+    commit: 10887
+total:
+  release: 56
+  mergedPR: 3180
+  openPR: 103
+  closedIssue: 1829
+  openIssue: 205
+  commit: 10887
+---
+---
+
