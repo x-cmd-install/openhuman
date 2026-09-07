@@ -1,0 +1,240 @@
+about:
+  description: "OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research."
+  license: GPL-3.0
+  homepage: https://tinyhumans.ai/openhuman
+  head: 71a6970
+  archived: false
+  latestVersion: "v0.63.7"
+  collectedAt: 2026-09-07T05:28:22Z
+timeline:
+  created: 2026-02-18
+  lastCommit: 2026-09-04
+  lastRelease: 2026-08-07
+popularity:
+  star: 39479
+  watcher: 199
+  fork: 3894
+  release: 56
+  contributor: 157
+  pullRequest: 3732
+  issue: 2036
+language:
+  Rust: 31024041
+  TypeScript: 21320305
+  JavaScript: 1027236
+  Shell: 773344
+  CSS: 75599
+  Swift: 24932
+  Python: 17538
+  PowerShell: 12289
+  Dockerfile: 7237
+  Ruby: 4016
+  NSIS: 1574
+  HTML: 745
+totalBytes: 54288856
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 0
+    mergedPR: 246
+    openPR: 77
+    closedIssue: 115
+    openIssue: 94
+    commit: 9029
+  last60d:
+    since: 2026-07-09
+    release: 8
+    mergedPR: 608
+    openPR: 97
+    closedIssue: 286
+    openIssue: 155
+    commit: 11667
+  last90d:
+    since: 2026-06-09
+    release: 15
+    mergedPR: 1248
+    openPR: 101
+    closedIssue: 673
+    openIssue: 184
+    commit: 12522
+  last180d:
+    since: 2026-03-11
+    release: 56
+    mergedPR: 3180
+    openPR: 103
+    closedIssue: 1829
+    openIssue: 207
+    commit: 15880
+  last360d:
+    since: 2025-09-12
+    release: 56
+    mergedPR: 3180
+    openPR: 103
+    closedIssue: 1829
+    openIssue: 207
+    commit: 16523
+  last720d:
+    since: 2024-09-17
+    release: 56
+    mergedPR: 3180
+    openPR: 103
+    closedIssue: 1829
+    openIssue: 207
+    commit: 10887
+total:
+  release: 56
+  mergedPR: 3180
+  openPR: 103
+  closedIssue: 1829
+  openIssue: 207
+  commit: 10887
+---
+path: /home/runner/.x-repo/github.com/tinyhumansai/openhuman
+collectedAt: 2026-09-07T05:28:47Z
+loc:
+  Rust:
+    code: 616553
+    comments: 47983
+    blanks: 64919
+    files: 3195
+  Json:
+    code: 273734
+    comments: 0
+    blanks: 4
+    files: 64
+  TypeScript:
+    code: 216697
+    comments: 30108
+    blanks: 18681
+    files: 990
+  Tsx:
+    code: 169574
+    comments: 24993
+    blanks: 21183
+    files: 1052
+  JavaScript:
+    code: 24906
+    comments: 2657
+    blanks: 2284
+    files: 122
+  Yaml:
+    code: 23913
+    comments: 94
+    blanks: 5231
+    files: 5
+  Sh:
+    code: 14622
+    comments: 4006
+    blanks: 2260
+    files: 134
+  Css:
+    code: 1751
+    comments: 467
+    blanks: 194
+    files: 7
+  Toml:
+    code: 1619
+    comments: 2372
+    blanks: 207
+    files: 53
+  Swift:
+    code: 480
+    comments: 94
+    blanks: 102
+    files: 5
+  Python:
+    code: 386
+    comments: 14
+    blanks: 70
+    files: 2
+  PowerShell:
+    code: 273
+    comments: 53
+    blanks: 40
+    files: 2
+  Svg:
+    code: 103
+    comments: 0
+    blanks: 0
+    files: 27
+  Dockerfile:
+    code: 88
+    comments: 75
+    blanks: 25
+    files: 2
+  Ruby:
+    code: 56
+    comments: 3
+    blanks: 9
+    files: 2
+  Autoconf:
+    code: 34
+    comments: 0
+    blanks: 5
+    files: 2
+  Html:
+    code: 26
+    comments: 0
+    blanks: 2
+    files: 2
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Bash:
+    code: 5
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 32258
+    blanks: 11020
+    files: 331
+  Text:
+    code: 0
+    comments: 286
+    blanks: 29
+    files: 13
+total:
+  code: 1346627
+  comments: 219638
+  blanks: 135547
+  files: 6013
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:28:49+00:00
+  platform:
+    darwin/arm64:
+      name:  OpenHuman_0.63.12_aarch64-apple-darwin.app.tar.gz
+      url:   https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_aarch64-apple-darwin.app.tar.gz
+      size:  192435206
+      score: 43
+    darwin/amd64:
+      name:  OpenHuman_0.63.12_x86_64-apple-darwin.app.tar.gz
+      url:   https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x86_64-apple-darwin.app.tar.gz
+      size:  207890761
+      score: 43
+    linux/arm64:
+      name:  openhuman-core-0.63.12-aarch64-unknown-linux-gnu.tar.gz
+      url:   https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/openhuman-core-0.63.12-aarch64-unknown-linux-gnu.tar.gz
+      size:  89764387
+      score: 43
+    linux/amd64:
+      name:  openhuman-core-0.63.12-x86_64-unknown-linux-gnu.tar.gz
+      url:   https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/openhuman-core-0.63.12-x86_64-unknown-linux-gnu.tar.gz
+      size:  92562846
+      score: 43
+    win/arm64:
+      name:  OpenHuman_0.63.12_aarch64.dmg
+      url:   https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_aarch64.dmg
+      size:  192502031
+      score: 18
+    win/amd64:
+      name:  OpenHuman_0.63.12_amd64.AppImage
+      url:   https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_amd64.AppImage
+      size:  362646008
+      score: 18
