@@ -2,31 +2,31 @@ about:
   description: "OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research."
   license: GPL-3.0
   homepage: https://tinyhumans.ai/openhuman
-  head: d93180a
+  head: 8916f1c
   archived: false
   latestVersion: "v0.63.7"
   latestRelease: "v0.63.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:39:57Z
+  collectedAt: 2026-09-10T17:44:44Z
 timeline:
   created: 2026-02-18
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-08-07
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 39594
+  star: 39612
   watcher: 200
-  fork: 3905
+  fork: 3910
   release: 56
-  contributor: 157
-  pullRequest: 3796
-  issue: 2104
+  contributor: 158
+  pullRequest: 3813
+  issue: 2114
 language:
-  Rust: 31608652
-  TypeScript: 21391819
+  Rust: 31803476
+  TypeScript: 21404768
   JavaScript: 1079486
-  Shell: 774666
+  Shell: 774492
   CSS: 75599
   Swift: 24932
   Python: 17538
@@ -35,86 +35,86 @@ language:
   Ruby: 4016
   NSIS: 1574
   HTML: 745
-totalBytes: 54998553
+totalBytes: 55206152
 recent:
   last30d:
     since: 2026-08-11
     release: 0
-    mergedPR: 284
+    mergedPR: 298
     openPR: 77
-    closedIssue: 158
-    openIssue: 102
-    commit: 9284
+    closedIssue: 178
+    openIssue: 92
+    commit: 9353
   last60d:
     since: 2026-07-12
     release: 8
-    mergedPR: 651
+    mergedPR: 665
     openPR: 97
-    closedIssue: 337
-    openIssue: 169
-    commit: 11922
+    closedIssue: 357
+    openIssue: 159
+    commit: 11991
   last90d:
     since: 2026-06-12
     release: 15
-    mergedPR: 1256
+    mergedPR: 1270
     openPR: 101
-    closedIssue: 708
-    openIssue: 197
-    commit: 12777
+    closedIssue: 728
+    openIssue: 187
+    commit: 12846
   last180d:
     since: 2026-03-14
     release: 56
-    mergedPR: 3243
+    mergedPR: 3257
     openPR: 103
-    closedIssue: 1884
-    openIssue: 220
-    commit: 16135
+    closedIssue: 1904
+    openIssue: 210
+    commit: 16204
   last360d:
     since: 2025-09-15
     release: 56
-    mergedPR: 3243
+    mergedPR: 3257
     openPR: 103
-    closedIssue: 1884
-    openIssue: 220
-    commit: 16778
+    closedIssue: 1904
+    openIssue: 210
+    commit: 16847
   last720d:
     since: 2024-09-20
     release: 56
-    mergedPR: 3243
+    mergedPR: 3257
     openPR: 103
-    closedIssue: 1884
-    openIssue: 220
-    commit: 11135
+    closedIssue: 1904
+    openIssue: 210
+    commit: 11197
 total:
   release: 56
-  mergedPR: 3243
+  mergedPR: 3257
   openPR: 103
-  closedIssue: 1884
-  openIssue: 220
-  commit: 11135
+  closedIssue: 1904
+  openIssue: 210
+  commit: 11197
 ---
 path: /home/runner/.x-repo/github.com/tinyhumansai/openhuman
-collectedAt: 2026-09-10T05:40:28Z
+collectedAt: 2026-09-10T17:45:15Z
 loc:
   Rust:
-    code: 627557
-    comments: 49279
-    blanks: 66179
-    files: 3208
+    code: 630436
+    comments: 49852
+    blanks: 66445
+    files: 3213
   Json:
-    code: 273733
+    code: 273727
     comments: 0
     blanks: 4
     files: 64
   TypeScript:
-    code: 217057
-    comments: 30298
+    code: 217060
+    comments: 30300
     blanks: 18729
     files: 992
   Tsx:
-    code: 170122
-    comments: 25301
-    blanks: 21265
+    code: 170318
+    comments: 25386
+    blanks: 21293
     files: 1056
   JavaScript:
     code: 25752
@@ -127,8 +127,8 @@ loc:
     blanks: 5232
     files: 5
   Sh:
-    code: 14624
-    comments: 4025
+    code: 14616
+    comments: 4027
     blanks: 2260
     files: 134
   Css:
@@ -193,8 +193,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 32296
-    blanks: 11022
+    comments: 32313
+    blanks: 11026
     files: 331
   Text:
     code: 0
@@ -202,10 +202,10 @@ loc:
     blanks: 29
     files: 13
 total:
-  code: 1359376
-  comments: 223455
-  blanks: 137260
-  files: 6032
+  code: 1362440
+  comments: 224877
+  blanks: 137637
+  files: 6037
 ---
 
 ---
