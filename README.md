@@ -38,22 +38,22 @@ Total: **1,360,967** lines of code across **5448** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,619 · **Forks**: 3,910 · **Open issues**: 2,114 · **Contributors**: 158
+- **Stars**: 39,618 · **Forks**: 3,910 · **Open issues**: 2,114 · **Contributors**: 158
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 3259 · **Open PRs**: 106 · **Closed issues**: 1905 · **Open issues**: 209 · **Commits**: 11207
+- **Releases**: 56 · **Merged PRs**: 3259 · **Open PRs**: 107 · **Closed issues**: 1905 · **Open issues**: 209 · **Commits**: 11207
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 300 | 80 | 179 | 91 | 9365 |
-| last60d | 2026-07-12 | 8 | 667 | 100 | 358 | 158 | 12003 |
-| 90d | 2026-06-12 | 15 | 1272 | 104 | 729 | 186 | 12858 |
-| last180d | 2026-03-14 | 56 | 3259 | 106 | 1905 | 209 | 16216 |
-| 360d | 2025-09-15 | 56 | 3259 | 106 | 1905 | 209 | 16859 |
-| last720d | 2024-09-20 | 56 | 3259 | 106 | 1905 | 209 | 11207 |
+| 30d | 2026-08-11 | 0 | 300 | 81 | 179 | 91 | 9365 |
+| last60d | 2026-07-12 | 8 | 667 | 101 | 358 | 158 | 12003 |
+| 90d | 2026-06-12 | 15 | 1272 | 105 | 729 | 186 | 12858 |
+| last180d | 2026-03-14 | 56 | 3259 | 107 | 1905 | 209 | 16216 |
+| 360d | 2025-09-15 | 56 | 3259 | 107 | 1905 | 209 | 16859 |
+| last720d | 2024-09-20 | 56 | 3259 | 107 | 1905 | 209 | 11207 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for openhuman lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:27:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:24:31Z._
