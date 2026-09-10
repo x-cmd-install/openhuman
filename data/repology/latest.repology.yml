@@ -1,0 +1,7 @@
+- repo: homebrew_casks
+  srcname: openhuman
+  visiblename: OpenHuman
+  version: 0.63.12
+  origversion: null
+  status: unique
+  summary: Personal AI assistant with local memory and integrations
