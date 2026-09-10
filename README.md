@@ -12,6 +12,18 @@ OpenHuman is an open source personal AI for Mac, Windows and Linux — local-fir
 x install openhuman
 ```
 
+## Code insight
+
+Total: **1,360,967** lines of code across **5448** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 630,572 | 49,904 | 66,455 | 3213 |
+| Json | 273,727 | 0 | 4 | 64 |
+| TypeScript | 217,197 | 30,399 | 18,759 | 993 |
+| Tsx | 170,318 | 25,386 | 21,293 | 1056 |
+| JavaScript | 25,797 | 2,975 | 2,408 | 122 |
+
 ## Source
 
 - **Upstream**: <https://github.com/tinyhumansai/openhuman>
@@ -21,45 +33,61 @@ x install openhuman
 ## Release
 
 - **Latest**: `v0.63.7` (2026-08-07)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 21
-- **Published**: 2026-08-07T11:11:37Z
 
 ## Popularity
 
-- **Stars**: 39,594 · **Forks**: 3,905 · **Open issues**: 2,104 · **Contributors**: 157
+- **Stars**: 39,619 · **Forks**: 3,910 · **Open issues**: 2,114 · **Contributors**: 158
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 3243 · **Open PRs**: 103 · **Closed issues**: 1884 · **Open issues**: 220 · **Commits**: 11135
+- **Releases**: 56 · **Merged PRs**: 3259 · **Open PRs**: 106 · **Closed issues**: 1905 · **Open issues**: 209 · **Commits**: 11207
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 284 | 77 | 158 | 102 | 9284 |
-| 90d | 2026-06-12 | 15 | 1256 | 101 | 708 | 197 | 12777 |
-| 360d | 2025-09-15 | 56 | 3243 | 103 | 1884 | 220 | 16778 |
+| 30d | 2026-08-11 | 0 | 300 | 80 | 179 | 91 | 9365 |
+| last60d | 2026-07-12 | 8 | 667 | 100 | 358 | 158 | 12003 |
+| 90d | 2026-06-12 | 15 | 1272 | 104 | 729 | 186 | 12858 |
+| last180d | 2026-03-14 | 56 | 3259 | 106 | 1905 | 209 | 16216 |
+| 360d | 2025-09-15 | 56 | 3259 | 106 | 1905 | 209 | 16859 |
+| last720d | 2024-09-20 | 56 | 3259 | 106 | 1905 | 209 | 11207 |
 
-## Code size
+## Release assets
 
-Total: **1,357,579** lines of code across **5442** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 627,557 | 49,279 | 66,179 | 3208 |
-| Json | 273,733 | 0 | 4 | 64 |
-| TypeScript | 217,057 | 30,298 | 18,729 | 992 |
-| Tsx | 170,122 | 25,301 | 21,265 | 1056 |
-| JavaScript | 25,752 | 2,951 | 2,405 | 122 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [latest.json](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/latest.json) | 3.1 KiB | `other` |
+| [openhuman-core-0.63.12-aarch64-unknown-linux-gnu.tar.gz](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/openhuman-core-0.63.12-aarch64-unknown-linux-gnu.tar.gz) | 85.6 MiB | `native/linux/arm64/glibc` |
+| [openhuman-core-0.63.12-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/openhuman-core-0.63.12-aarch64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/arm64/glibc` |
+| [openhuman-core-0.63.12-x86_64-unknown-linux-gnu.tar.gz](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/openhuman-core-0.63.12-x86_64-unknown-linux-gnu.tar.gz) | 88.3 MiB | `native/linux/x64/glibc` |
+| [openhuman-core-0.63.12-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/openhuman-core-0.63.12-x86_64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/x64/glibc` |
+| [OpenHuman_0.63.12_aarch64-apple-darwin.app.tar.gz](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_aarch64-apple-darwin.app.tar.gz) | 183.5 MiB | `native/darwin/arm64` |
+| [OpenHuman_0.63.12_aarch64-apple-darwin.app.tar.gz.sig](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_aarch64-apple-darwin.app.tar.gz.sig) | 448 B | `native/darwin/arm64` |
+| [OpenHuman_0.63.12_aarch64.AppImage](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_aarch64.AppImage) | 340.7 MiB | `other` |
+| [OpenHuman_0.63.12_aarch64.AppImage.sig](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_aarch64.AppImage.sig) | 428 B | `other` |
+| [OpenHuman_0.63.12_aarch64.dmg](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_aarch64.dmg) | 183.6 MiB | `other` |
+| [OpenHuman_0.63.12_amd64.AppImage](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_amd64.AppImage) | 345.8 MiB | `other` |
+| [OpenHuman_0.63.12_amd64.AppImage.sig](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_amd64.AppImage.sig) | 424 B | `other` |
+| [OpenHuman_0.63.12_amd64.deb](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_amd64.deb) | 237.0 MiB | `runtime/deb/amd64` |
+| [OpenHuman_0.63.12_arm64.deb](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_arm64.deb) | 239.6 MiB | `runtime/deb/arm64` |
+| [OpenHuman_0.63.12_x64-setup.exe](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x64-setup.exe) | 161.1 MiB | `other` |
+| [OpenHuman_0.63.12_x64-setup.exe.sig](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x64-setup.exe.sig) | 424 B | `other` |
+| [OpenHuman_0.63.12_x64.dmg](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x64.dmg) | 198.0 MiB | `other` |
+| [OpenHuman_0.63.12_x64_en-US.msi](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x64_en-US.msi) | 221.3 MiB | `other` |
+| [OpenHuman_0.63.12_x64_en-US.msi.sig](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x64_en-US.msi.sig) | 424 B | `other` |
+| [OpenHuman_0.63.12_x86_64-apple-darwin.app.tar.gz](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x86_64-apple-darwin.app.tar.gz) | 198.3 MiB | `native/darwin/x64` |
+| [OpenHuman_0.63.12_x86_64-apple-darwin.app.tar.gz.sig](https://github.com/tinyhumansai/openhuman/releases/download/v0.63.12/OpenHuman_0.63.12_x86_64-apple-darwin.app.tar.gz.sig) | 444 B | `native/darwin/x64` |
 
 ## Improve this data
 
 Install metadata for openhuman lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `openhuman` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/openhuman.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/openhuman.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:40:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:27:39Z._
