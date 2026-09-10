@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.63.7"
   latestRelease: "v0.63.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:26:23Z
+  collectedAt: 2026-09-10T22:23:52Z
 timeline:
   created: 2026-02-18
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 39619
+  star: 39618
   watcher: 199
   fork: 3910
   release: 56
   contributor: 158
-  pullRequest: 3818
+  pullRequest: 3819
   issue: 2114
 language:
   Rust: 31816940
@@ -41,7 +41,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 300
-    openPR: 80
+    openPR: 81
     closedIssue: 179
     openIssue: 91
     commit: 9365
@@ -49,7 +49,7 @@ recent:
     since: 2026-07-12
     release: 8
     mergedPR: 667
-    openPR: 100
+    openPR: 101
     closedIssue: 358
     openIssue: 158
     commit: 12003
@@ -57,7 +57,7 @@ recent:
     since: 2026-06-12
     release: 15
     mergedPR: 1272
-    openPR: 104
+    openPR: 105
     closedIssue: 729
     openIssue: 186
     commit: 12858
@@ -65,7 +65,7 @@ recent:
     since: 2026-03-14
     release: 56
     mergedPR: 3259
-    openPR: 106
+    openPR: 107
     closedIssue: 1905
     openIssue: 209
     commit: 16216
@@ -73,7 +73,7 @@ recent:
     since: 2025-09-15
     release: 56
     mergedPR: 3259
-    openPR: 106
+    openPR: 107
     closedIssue: 1905
     openIssue: 209
     commit: 16859
@@ -81,20 +81,20 @@ recent:
     since: 2024-09-20
     release: 56
     mergedPR: 3259
-    openPR: 106
+    openPR: 107
     closedIssue: 1905
     openIssue: 209
     commit: 11207
 total:
   release: 56
   mergedPR: 3259
-  openPR: 106
+  openPR: 107
   closedIssue: 1905
   openIssue: 209
   commit: 11207
 ---
 path: /home/runner/.x-repo/github.com/tinyhumansai/openhuman
-collectedAt: 2026-09-10T21:27:11Z
+collectedAt: 2026-09-10T22:24:18Z
 loc:
   Rust:
     code: 630572
