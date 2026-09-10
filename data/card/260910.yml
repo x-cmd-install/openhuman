@@ -1,0 +1,211 @@
+about:
+  description: "OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research."
+  license: GPL-3.0
+  homepage: https://tinyhumans.ai/openhuman
+  head: d93180a
+  archived: false
+  latestVersion: "v0.63.7"
+  latestRelease: "v0.63.7"
+  latestPrerelease: ""
+  collectedAt: 2026-09-10T05:39:57Z
+timeline:
+  created: 2026-02-18
+  lastCommit: 2026-09-09
+  lastVersion: 2026-08-07
+  lastRelease: 2026-08-07
+  lastPrerelease: 
+popularity:
+  star: 39594
+  watcher: 200
+  fork: 3905
+  release: 56
+  contributor: 157
+  pullRequest: 3796
+  issue: 2104
+language:
+  Rust: 31608652
+  TypeScript: 21391819
+  JavaScript: 1079486
+  Shell: 774666
+  CSS: 75599
+  Swift: 24932
+  Python: 17538
+  PowerShell: 12289
+  Dockerfile: 7237
+  Ruby: 4016
+  NSIS: 1574
+  HTML: 745
+totalBytes: 54998553
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 0
+    mergedPR: 284
+    openPR: 77
+    closedIssue: 158
+    openIssue: 102
+    commit: 9284
+  last60d:
+    since: 2026-07-12
+    release: 8
+    mergedPR: 651
+    openPR: 97
+    closedIssue: 337
+    openIssue: 169
+    commit: 11922
+  last90d:
+    since: 2026-06-12
+    release: 15
+    mergedPR: 1256
+    openPR: 101
+    closedIssue: 708
+    openIssue: 197
+    commit: 12777
+  last180d:
+    since: 2026-03-14
+    release: 56
+    mergedPR: 3243
+    openPR: 103
+    closedIssue: 1884
+    openIssue: 220
+    commit: 16135
+  last360d:
+    since: 2025-09-15
+    release: 56
+    mergedPR: 3243
+    openPR: 103
+    closedIssue: 1884
+    openIssue: 220
+    commit: 16778
+  last720d:
+    since: 2024-09-20
+    release: 56
+    mergedPR: 3243
+    openPR: 103
+    closedIssue: 1884
+    openIssue: 220
+    commit: 11135
+total:
+  release: 56
+  mergedPR: 3243
+  openPR: 103
+  closedIssue: 1884
+  openIssue: 220
+  commit: 11135
+---
+path: /home/runner/.x-repo/github.com/tinyhumansai/openhuman
+collectedAt: 2026-09-10T05:40:28Z
+loc:
+  Rust:
+    code: 627557
+    comments: 49279
+    blanks: 66179
+    files: 3208
+  Json:
+    code: 273733
+    comments: 0
+    blanks: 4
+    files: 64
+  TypeScript:
+    code: 217057
+    comments: 30298
+    blanks: 18729
+    files: 992
+  Tsx:
+    code: 170122
+    comments: 25301
+    blanks: 21265
+    files: 1056
+  JavaScript:
+    code: 25752
+    comments: 2951
+    blanks: 2405
+    files: 122
+  Yaml:
+    code: 23917
+    comments: 94
+    blanks: 5232
+    files: 5
+  Sh:
+    code: 14624
+    comments: 4025
+    blanks: 2260
+    files: 134
+  Css:
+    code: 1751
+    comments: 467
+    blanks: 194
+    files: 7
+  Toml:
+    code: 1606
+    comments: 2272
+    blanks: 207
+    files: 53
+  Swift:
+    code: 480
+    comments: 94
+    blanks: 102
+    files: 5
+  Python:
+    code: 386
+    comments: 14
+    blanks: 70
+    files: 2
+  PowerShell:
+    code: 273
+    comments: 53
+    blanks: 40
+    files: 2
+  Svg:
+    code: 103
+    comments: 0
+    blanks: 0
+    files: 27
+  Dockerfile:
+    code: 88
+    comments: 75
+    blanks: 25
+    files: 2
+  Ruby:
+    code: 56
+    comments: 3
+    blanks: 9
+    files: 2
+  Autoconf:
+    code: 34
+    comments: 0
+    blanks: 5
+    files: 2
+  Html:
+    code: 26
+    comments: 0
+    blanks: 2
+    files: 2
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Bash:
+    code: 5
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 32296
+    blanks: 11022
+    files: 331
+  Text:
+    code: 0
+    comments: 286
+    blanks: 29
+    files: 13
+total:
+  code: 1359376
+  comments: 223455
+  blanks: 137260
+  files: 6032
+---
+
+---
