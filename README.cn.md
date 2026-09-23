@@ -4,7 +4,7 @@
 
 OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 
-[![x-cmd/install — openhuman Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openhuman.svg?lang=zh)](https://x-cmd.com/install/openhuman)
+[![x-cmd/install — openhuman Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/openhuman.svg?lang=zh)](https://x-cmd.com/install/openhuman)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install openhuman
 
 ## 代码洞察
 
-合计: **1,341,913** 行代码（覆盖前 5 种语言、共 **5686** 个文件）。
+合计: **1,341,728** 行代码（覆盖前 5 种语言、共 **5690** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 619,721 | 47,516 | 65,492 | 3487 |
-| Json | 275,325 | 0 | 4 | 65 |
-| TypeScript | 213,398 | 30,431 | 18,535 | 981 |
-| Tsx | 160,866 | 24,869 | 20,121 | 1020 |
-| JavaScript | 27,816 | 3,319 | 2,580 | 133 |
+| Rust | 618,637 | 47,322 | 65,384 | 3481 |
+| Json | 275,395 | 0 | 4 | 65 |
+| TypeScript | 214,122 | 30,614 | 18,620 | 986 |
+| Tsx | 161,255 | 24,911 | 20,170 | 1024 |
+| JavaScript | 27,776 | 3,263 | 2,575 | 134 |
 
 ## 源代码
 
@@ -38,22 +38,22 @@ x install openhuman
 
 ## 流行度
 
-- **Star**: 40,024 · **Fork**: 3,952 · **开放 issue**: 2,219 · **贡献者**: 175
+- **Star**: 40,048 · **Fork**: 3,953 · **开放 issue**: 2,254 · **贡献者**: 175
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 3502 · **开放 PR**: 13 · **已关闭 issue**: 1984 · **开放 issue**: 235 · **提交数**: 21663
+- **发布数**: 56 · **已合并 PR**: 3512 · **开放 PR**: 52 · **已关闭 issue**: 1990 · **开放 issue**: 264 · **提交数**: 22183
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 363 | 13 | 179 | 108 | 10749 |
-| last60d | 2026-07-24 | 4 | 640 | 13 | 298 | 172 | 19537 |
-| 90d | 2026-06-24 | 10 | 1237 | 13 | 646 | 208 | 20332 |
-| last180d | 2026-03-26 | 56 | 3483 | 13 | 1973 | 235 | 23847 |
-| 360d | 2025-09-27 | 56 | 3502 | 13 | 1984 | 235 | 24739 |
-| last720d | 2024-10-02 | 56 | 3502 | 13 | 1984 | 235 | 21663 |
+| 30d | 2026-08-24 | 0 | 353 | 52 | 174 | 127 | 11523 |
+| last60d | 2026-07-25 | 4 | 650 | 52 | 301 | 200 | 20311 |
+| 90d | 2026-06-25 | 10 | 1212 | 52 | 631 | 236 | 21106 |
+| last180d | 2026-03-27 | 56 | 3482 | 52 | 1976 | 264 | 24621 |
+| 360d | 2025-09-28 | 56 | 3512 | 52 | 1990 | 264 | 25513 |
+| last720d | 2024-10-03 | 56 | 3512 | 52 | 1990 | 264 | 22183 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ openhuman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:47:46Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:00:39Z._
