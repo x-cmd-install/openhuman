@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
+OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 
 [![x-cmd/install — openhuman Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/openhuman.svg)](https://x-cmd.com/install/openhuman)
 
@@ -14,15 +14,15 @@ x install openhuman
 
 ## Code insight
 
-Total: **1,356,837** lines of code across **5775** files in the top 5 languages.
+Total: **1,387,372** lines of code across **5937** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 623,444 | 48,075 | 65,903 | 3504 |
-| Json | 275,604 | 0 | 5 | 68 |
-| TypeScript | 215,969 | 31,297 | 18,812 | 1001 |
-| Tsx | 164,747 | 26,122 | 20,655 | 1053 |
-| JavaScript | 32,198 | 4,097 | 2,916 | 149 |
+| Rust | 636,861 | 49,065 | 66,977 | 3558 |
+| Json | 275,830 | 0 | 5 | 69 |
+| TypeScript | 228,309 | 34,107 | 19,527 | 1049 |
+| Tsx | 168,888 | 26,019 | 20,967 | 1110 |
+| JavaScript | 32,414 | 4,313 | 2,958 | 151 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,356,837** lines of code across **5775** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.63.7` (2026-08-07)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 40,079 · **Forks**: 3,951 · **Open issues**: 2,266 · **Contributors**: 176
+- **Stars**: 40,102 · **Forks**: 3,954 · **Open issues**: 2,277 · **Contributors**: 176
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 3611 · **Open PRs**: 12 · **Closed issues**: 2022 · **Open issues**: 244 · **Commits**: 23026
+- **Releases**: 56 · **Merged PRs**: 3647 · **Open PRs**: 10 · **Closed issues**: 2033 · **Open issues**: 244 · **Commits**: 24629
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 443 | 12 | 203 | 107 | 12689 |
-| last60d | 2026-07-26 | 4 | 748 | 12 | 332 | 181 | 21477 |
-| 90d | 2026-06-26 | 10 | 1271 | 12 | 626 | 216 | 22272 |
-| last180d | 2026-03-28 | 56 | 3576 | 12 | 2008 | 244 | 25787 |
-| 360d | 2025-09-29 | 56 | 3611 | 12 | 2022 | 244 | 26679 |
-| last720d | 2024-10-04 | 56 | 3611 | 12 | 2022 | 244 | 23026 |
+| 30d | 2026-08-26 | 0 | 461 | 10 | 205 | 106 | 14195 |
+| last60d | 2026-07-27 | 4 | 764 | 10 | 336 | 179 | 22983 |
+| 90d | 2026-06-27 | 9 | 1303 | 10 | 636 | 216 | 23778 |
+| last180d | 2026-03-29 | 56 | 3611 | 10 | 2011 | 244 | 27293 |
+| 360d | 2025-09-30 | 56 | 3647 | 10 | 2033 | 244 | 28185 |
+| last720d | 2024-10-05 | 56 | 3647 | 10 | 2033 | 244 | 24629 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for openhuman lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:29:30Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:45:54Z._
