@@ -14,14 +14,14 @@ x install openhuman
 
 ## Code insight
 
-Total: **909,696** lines of code across **5058** files in the top 5 languages.
+Total: **934,532** lines of code across **5142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 469,156 | 36,081 | 48,031 | 2910 |
-| TypeScript | 199,208 | 31,601 | 18,181 | 975 |
-| Tsx | 154,312 | 23,753 | 18,509 | 1002 |
-| JavaScript | 35,997 | 4,731 | 3,254 | 166 |
+| Rust | 479,993 | 36,371 | 48,933 | 2956 |
+| TypeScript | 207,841 | 32,064 | 18,470 | 985 |
+| Tsx | 158,668 | 24,437 | 18,986 | 1024 |
+| JavaScript | 36,836 | 4,818 | 3,332 | 172 |
 | Yaml | 23,866 | 98 | 5,208 | 5 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **909,696** lines of code across **5058** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.64.10` (2026-09-30)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 41,490 · **Forks**: 4,086 · **Open issues**: 2,376 · **Contributors**: 184
+- **Stars**: 41,627 · **Forks**: 4,098 · **Open issues**: 2,382 · **Contributors**: 184
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 3945 · **Open PRs**: 7 · **Closed issues**: 2113 · **Open issues**: 263 · **Commits**: 31602
+- **Releases**: 61 · **Merged PRs**: 3984 · **Open PRs**: 27 · **Closed issues**: 2114 · **Open issues**: 268 · **Commits**: 32000
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 5 | 619 | 7 | 209 | 112 | 20174 |
-| last60d | 2026-08-08 | 5 | 943 | 7 | 373 | 162 | 31471 |
-| 90d | 2026-07-09 | 13 | 1315 | 7 | 554 | 213 | 33713 |
-| last180d | 2026-04-10 | 50 | 3705 | 7 | 1933 | 263 | 37188 |
-| 360d | 2025-10-12 | 61 | 3945 | 7 | 2113 | 263 | 38492 |
-| last720d | 2024-10-17 | 61 | 3945 | 7 | 2113 | 263 | 31602 |
+| 30d | 2026-09-08 | 5 | 623 | 27 | 175 | 112 | 20731 |
+| last60d | 2026-08-09 | 5 | 975 | 27 | 370 | 166 | 32028 |
+| 90d | 2026-07-10 | 13 | 1348 | 27 | 553 | 218 | 34270 |
+| last180d | 2026-04-11 | 49 | 3732 | 27 | 1934 | 268 | 37746 |
+| 360d | 2025-10-13 | 61 | 3984 | 27 | 2114 | 268 | 39050 |
+| last720d | 2024-10-18 | 61 | 3984 | 27 | 2114 | 268 | 32000 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for openhuman lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:36:54Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:55:06Z._
