@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3225,
       "digest": "sha256:890e59a7bd77af81f0bd0dad2b20a717658a67beea6f825e01324302c82f1008",
-      "download_count": 55550,
+      "download_count": 60923,
       "created_at": "2026-10-09T05:08:14Z",
       "updated_at": "2026-10-09T05:08:14Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 146836299,
       "digest": "sha256:eabac98af5f1feb711b4ffd48185aa06a233fa6bbcd1bcd4d733397dace03b9b",
-      "download_count": 94,
+      "download_count": 98,
       "created_at": "2026-10-09T04:32:52Z",
       "updated_at": "2026-10-09T04:32:57Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/openhuman-core-0.64.15-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 156391904,
       "digest": "sha256:f86ae0157b4ed28767c580c443e04027b62fe14e6f3260786f44cd265a242587",
-      "download_count": 269,
+      "download_count": 290,
       "created_at": "2026-10-09T04:38:28Z",
       "updated_at": "2026-10-09T04:38:34Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/openhuman-core-0.64.15-x86_64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:f97380c909edfeaeb5b16aa14886951d8e3f143d0611aa8e3856fe865da21476",
-      "download_count": 100,
+      "download_count": 107,
       "created_at": "2026-10-09T04:38:28Z",
       "updated_at": "2026-10-09T04:38:29Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/openhuman-core-0.64.15-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 95278073,
       "digest": "sha256:5d8189743debc46d4dae6d8febe99511b91e2786f187a8b4f445b46422852bb8",
-      "download_count": 616,
+      "download_count": 643,
       "created_at": "2026-10-09T04:57:12Z",
       "updated_at": "2026-10-09T04:57:17Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_aarch64-apple-darwin.app.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 95435642,
       "digest": "sha256:00b175f6280046ed04fea925bd2d7454db4eebcc9fbe79553d81eb0ac46110b9",
-      "download_count": 4830,
+      "download_count": 5270,
       "created_at": "2026-10-09T04:56:59Z",
       "updated_at": "2026-10-09T04:57:03Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_aarch64.dmg"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 205257208,
       "digest": "sha256:2ca83b32e6bf15961dc44fafcb2cf8f9cdd6abeb8b27b6539dd028219becfe62",
-      "download_count": 569,
+      "download_count": 598,
       "created_at": "2026-10-09T04:45:19Z",
       "updated_at": "2026-10-09T04:45:26Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_amd64.AppImage"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 140000954,
       "digest": "sha256:6cd1be9842eed3e7c29eedec8a79c38746348b7e50cf9c8e228a4a9fe3c0bdb8",
-      "download_count": 304,
+      "download_count": 313,
       "created_at": "2026-10-09T04:45:19Z",
       "updated_at": "2026-10-09T04:45:24Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 133051268,
       "digest": "sha256:7bf44ea02a0b194803e2a3526a6bafedb620d63c54c31bd14689499791464d3d",
-      "download_count": 87,
+      "download_count": 88,
       "created_at": "2026-10-09T04:38:15Z",
       "updated_at": "2026-10-09T04:38:21Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_arm64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 121433225,
       "digest": "sha256:fff6a9588c2f71334df8ec1f395b3bfae7395d77e84c97fef50950dd6411a2d6",
-      "download_count": 2622,
+      "download_count": 2760,
       "created_at": "2026-10-09T05:02:49Z",
       "updated_at": "2026-10-09T05:02:53Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_x64-setup.exe"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:c963b28a73335fad7a0c9e1a348447f263066d6418b7cf82a2f2076ab13bd1d4",
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2026-10-09T05:02:49Z",
       "updated_at": "2026-10-09T05:02:49Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_x64-setup.exe.sig"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 104235224,
       "digest": "sha256:5454dc58e610f73a8cc62f2c5e3c91a63cf2bd648fa2f473e6671ea29822e2d0",
-      "download_count": 444,
+      "download_count": 473,
       "created_at": "2026-10-09T04:56:06Z",
       "updated_at": "2026-10-09T04:56:10Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_x64.dmg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 162436058,
       "digest": "sha256:d3add5f3ca48b62b7ca93bb53b7990d35e3d40673e42c9a951915f459993fdd9",
-      "download_count": 537,
+      "download_count": 571,
       "created_at": "2026-10-09T05:02:49Z",
       "updated_at": "2026-10-09T05:02:55Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_x64_en-US.msi"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 104255042,
       "digest": "sha256:6a84ad7fda04cacbf967d9d3d1736f34b36f981ee7fd6f020be3788547034f75",
-      "download_count": 164,
+      "download_count": 168,
       "created_at": "2026-10-09T04:56:21Z",
       "updated_at": "2026-10-09T04:56:26Z",
       "browser_download_url": "https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_x86_64-apple-darwin.app.tar.gz"
