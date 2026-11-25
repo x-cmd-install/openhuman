@@ -38,22 +38,22 @@ x install openhuman
 
 ## 流行度
 
-- **Star**: 42,836 · **Fork**: 4,231 · **开放 issue**: 2,999 · **贡献者**: 188
+- **Star**: 42,847 · **Fork**: 4,233 · **开放 issue**: 3,000 · **贡献者**: 188
 
 ## 累计统计
 
-- **发布数**: 63 · **已合并 PR**: 4940 · **开放 PR**: 37 · **已关闭 issue**: 2726 · **开放 issue**: 273 · **提交数**: 60325
+- **发布数**: 63 · **已合并 PR**: 4940 · **开放 PR**: 37 · **已关闭 issue**: 2726 · **开放 issue**: 274 · **提交数**: 60325
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 218 | 24 | 33 | 70 | 4334 |
-| last60d | 2026-09-25 | 7 | 1254 | 37 | 531 | 174 | 43168 |
-| 90d | 2026-08-26 | 7 | 1754 | 37 | 821 | 210 | 58951 |
-| last180d | 2026-05-28 | 27 | 3347 | 37 | 1762 | 270 | 71251 |
-| 360d | 2025-11-29 | 63 | 4939 | 37 | 2726 | 273 | 74847 |
-| last720d | 2024-12-04 | 63 | 4939 | 37 | 2726 | 273 | 60325 |
+| 30d | 2026-10-26 | 0 | 200 | 24 | 29 | 71 | 4334 |
+| last60d | 2026-09-26 | 5 | 1245 | 37 | 529 | 175 | 43168 |
+| 90d | 2026-08-27 | 7 | 1745 | 37 | 816 | 211 | 58951 |
+| last180d | 2026-05-29 | 27 | 3288 | 37 | 1733 | 271 | 71251 |
+| 360d | 2025-11-30 | 63 | 4939 | 37 | 2726 | 274 | 74847 |
+| last720d | 2024-12-05 | 63 | 4939 | 37 | 2726 | 274 | 60325 |
 
 ## Release 资产
 
@@ -81,10 +81,6 @@ x install openhuman
 | [OpenHuman_0.64.15_x86_64-apple-darwin.app.tar.gz](https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_x86_64-apple-darwin.app.tar.gz) | 99.4 MiB | `native/darwin/x64` |
 | [OpenHuman_0.64.15_x86_64-apple-darwin.app.tar.gz.sig](https://github.com/tinyhumansai/openhuman/releases/download/v0.64.15/OpenHuman_0.64.15_x86_64-apple-darwin.app.tar.gz.sig) | 444 B | `native/darwin/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/openhuman) 上共有 **2** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 openhuman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `openhuman` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +90,4 @@ openhuman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:18:07Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:24:10Z._
