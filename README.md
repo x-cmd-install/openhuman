@@ -38,22 +38,22 @@ Total: **1,244,217** lines of code across **6726** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,847 · **Forks**: 4,233 · **Open issues**: 3,000 · **Contributors**: 188
+- **Stars**: 42,859 · **Forks**: 4,234 · **Open issues**: 3,000 · **Contributors**: 189
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 4940 · **Open PRs**: 37 · **Closed issues**: 2726 · **Open issues**: 274 · **Commits**: 60325
+- **Releases**: 63 · **Merged PRs**: 4941 · **Open PRs**: 37 · **Closed issues**: 2727 · **Open issues**: 273 · **Commits**: 60325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 200 | 24 | 29 | 71 | 4334 |
-| last60d | 2026-09-26 | 5 | 1245 | 37 | 529 | 175 | 43168 |
-| 90d | 2026-08-27 | 7 | 1745 | 37 | 816 | 211 | 58951 |
-| last180d | 2026-05-29 | 27 | 3288 | 37 | 1733 | 271 | 71251 |
-| 360d | 2025-11-30 | 63 | 4939 | 37 | 2726 | 274 | 74847 |
-| last720d | 2024-12-05 | 63 | 4939 | 37 | 2726 | 274 | 60325 |
+| 30d | 2026-10-27 | 0 | 181 | 21 | 23 | 65 | 4334 |
+| last60d | 2026-09-27 | 4 | 1240 | 37 | 529 | 174 | 43168 |
+| 90d | 2026-08-28 | 7 | 1742 | 37 | 817 | 210 | 58951 |
+| last180d | 2026-05-30 | 27 | 3258 | 37 | 1730 | 270 | 71251 |
+| 360d | 2025-12-01 | 63 | 4940 | 37 | 2727 | 273 | 74847 |
+| last720d | 2024-12-06 | 63 | 4940 | 37 | 2727 | 273 | 60325 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for openhuman lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:24:09Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:58:56Z._
