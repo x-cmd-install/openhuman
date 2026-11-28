@@ -38,7 +38,7 @@ Total: **1,244,217** lines of code across **6726** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,866 · **Forks**: 4,232 · **Open issues**: 2,999 · **Contributors**: 188
+- **Stars**: 42,910 · **Forks**: 4,231 · **Open issues**: 2,999 · **Contributors**: 188
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,244,217** lines of code across **6726** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 167 | 20 | 22 | 65 | 4334 |
-| last60d | 2026-09-28 | 4 | 1219 | 37 | 509 | 170 | 43168 |
-| 90d | 2026-08-29 | 7 | 1736 | 37 | 817 | 209 | 58951 |
-| last180d | 2026-05-31 | 27 | 3230 | 37 | 1697 | 266 | 71251 |
-| 360d | 2025-12-02 | 63 | 4940 | 37 | 2727 | 272 | 74847 |
-| last720d | 2024-12-07 | 63 | 4940 | 37 | 2727 | 272 | 60325 |
+| 30d | 2026-10-29 | 0 | 167 | 20 | 21 | 65 | 4334 |
+| last60d | 2026-09-29 | 4 | 1198 | 37 | 507 | 169 | 43168 |
+| 90d | 2026-08-30 | 7 | 1722 | 37 | 817 | 209 | 58951 |
+| last180d | 2026-06-01 | 27 | 3196 | 37 | 1676 | 266 | 71251 |
+| 360d | 2025-12-03 | 63 | 4939 | 37 | 2727 | 272 | 74847 |
+| last720d | 2024-12-08 | 63 | 4939 | 37 | 2727 | 272 | 60325 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for openhuman lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:38:27Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:43:19Z._
